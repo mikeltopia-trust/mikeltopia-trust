@@ -1,0 +1,13 @@
+IPFS CID: bafybeig6m3yaoporrxwvmgh4ravhycs6nduwavt4moukjybsjlszizmxim
+
+Public Link: https://bafybeig6m3yaoporrxwvmgh4ravhycs6nduwavt4moukjybsjlszizmxim.ipfs.w3s.link/
+
+Verified by: Mikéltopia Trust™
+
+Jurisdictional Record Published: 2025-05-15
+
+UCC-1 Filing #: 20252039668
+
+Wallet: 0x2Ac992d328c5B63965Cd5528a33E8F3c595CF818
+
+DID: did:key:z6MkfP32hSZqdH83FxHNQCzgn8dbDDULpbkuFnZe
